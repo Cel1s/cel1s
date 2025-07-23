@@ -39,8 +39,8 @@ Organizo meus aprendizados e anotações, buscando sempre aplicar a teoria na pr
 
 
 <p align="left">
-  [cite_start]Sou **Tecnóloga em Análise e Desenvolvimento de Sistemas** (previsão 2026) e possuo **Especialização em Análise de Sistemas** (concluída em 2024). [cite: 12, 13] <br><br>
-  [cite_start]Tenho me aprofundado em **JavaScript** (ES6+, TypeScript), com foco em **React.js** e **Next.js** para o front-end, e **Node.js** e **Express.js** para o back-end. [cite: 43, 42, 45] [cite_start]Também venho explorando tecnologias como **PostgreSQL** e **MySQL**, e ferramentas como **WordPress** para gerenciamento de conteúdo. [cite: 46, 55] [cite_start]Aplico esses conhecimentos em projetos e possuo experiência em **CRM** e **TOTVS**, além de **Excel**. [cite: 50, 51, 36] <br><br>
+  Sou **Tecnóloga em Análise e Desenvolvimento de Sistemas** (previsão 2026) e possuo **Especialização em Análise de Sistemas** (concluída em 2024).  <br><br>
+  Tenho me aprofundado em **JavaScript** (ES6+, TypeScript), com foco em **React.js** e **Next.js** para o front-end, e **Node.js** e **Express.js** para o back-end. Também venho explorando tecnologias como **PostgreSQL** e **MySQL**, e ferramentas como **WordPress** para gerenciamento de conteúdo. Aplico esses conhecimentos em projetos e possuo experiência em **CRM** e **TOTVS**, além de **Excel**.  <br><br>
   Acredito que aprender construindo é o melhor caminho, e por isso transformo teoria em prática sempre que possível 🚀
 </p>
 
