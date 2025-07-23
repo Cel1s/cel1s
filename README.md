@@ -6,16 +6,20 @@
 
 ## Sobre mim
 
-- [cite_start]🖥️ Profissional de TI com mais de 4 anos de experiência em suporte técnico e relacionamento com clientes. [cite: 7]
-- [cite_start]🎓 Tecnóloga em Análise e Desenvolvimento de Sistemas (Previsão: 2027) e Especialização em Análise de Sistemas (Conclusão: 2024). [cite: 12, 13]
-- [cite_start]📚 Estudando JavaScript, Node.js,SQL, React, e desenvolvimento fullstack. [cite: 43, 45, 42]
-- 🌍 Explorando novas tecnologias e desenvolvendo soluções de software.
-- [cite_start]💡 Possuo visão analítica e adaptabilidade em ambientes de alta demanda. [cite: 10]
+🖥️ Profissional de TI com mais de 4 anos de experiência em suporte técnico e relacionamento com clientes. 
+🎓 Tecnóloga em Análise e Desenvolvimento de Sistemas (Previsão: 2027) e Especialização em Análise de Sistemas (Conclusão: 2024). 
+📚 Estudando JavaScript, Node.js,SQL, React, e desenvolvimento fullstack.
+🌍 Explorando novas tecnologias e desenvolvendo soluções de software.
+💡 Possuo visão analítica e adaptabilidade em ambientes de alta demanda. 
 
 ---
 <br>
 
-<img src="https://raw.githubusercontent.com/Cel1s/Cel1s/output/snake.svg" alt="Snake animation" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Cel1s/Cel1s/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Cel1s/Cel1s/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Cel1s/Cel1s/output/pacman-contribution-graph.svg">
+</picture>
 
 ###
 ---
