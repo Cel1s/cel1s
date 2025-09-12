@@ -39,17 +39,10 @@ Organizo meus aprendizados e anotações, buscando sempre aplicar a teoria na pr
 
 
 <p align="left">
-  Sou **Tecnóloga em Análise e Desenvolvimento de Sistemas** (previsão 2026) e possuo **Especialização em Análise de Sistemas** (concluída em 2024).  <br><br>
-  Tenho me aprofundado em **JavaScript** (ES6+, TypeScript), com foco em **React.js** e **Next.js** para o front-end, e **Node.js** e **Express.js** para o back-end. Também venho explorando tecnologias como **PostgreSQL** e **MySQL**, e ferramentas como **WordPress** para gerenciamento de conteúdo. Aplico esses conhecimentos em projetos e possuo experiência em **CRM** e **TOTVS**, além de **Excel**.  <br><br>
-  Acredito que aprender construindo é o melhor caminho, e por isso transformo teoria em prática sempre que possível 🚀
-</p>
-
-
-<p align="left">
   <a href="https://mail.google.com/mail/?view=cm&fs=1&to=anakempf3r@gmail.com" title="Gmail">
-  <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=LINK-DO-SEU-GMAIL" alt="Gmail"/></a>
+  <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white" alt="Gmail"/></a>
   <a href="https://www.linkedin.com/in/anakmpfr" title="LinkedIn">
-  <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=LINK-DO-SEU-LINKEDIN" alt="LinkedIn"/></a>
+  <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white" alt="LinkedIn"/></a>
 </p>
 
 
